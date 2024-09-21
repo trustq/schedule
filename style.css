@@ -1,0 +1,66 @@
+body {
+  background-color:rgb(215, 232, 233);
+}
+
+
+
+h1 {
+  text-align:center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 28px;
+}
+.plain_text {
+  font-weight: normal;
+}
+table {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  border-collapse: separate;
+  border-spacing: 1px;
+  background-color: rgb(215, 232, 233);
+  border: 1px solid black;
+  margin-top: 15px;
+  margin:auto;
+}
+td {
+  background-color: ;
+  padding: 10px;
+  vertical-align: top;
+  border: 1px solid black;
+}
+
+th {
+  background-color: rgb(215, 232, 233);
+  padding: 10px;
+  vertical-align: top;
+  border: 1px solid black;
+}
+
+.box_rotate {
+  writing-mode:vertical-lr;
+  text-orientation: upright;
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: italic;
+}
+ul {
+  list-style-type: disc;
+}
+
+.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  width:fit-content;
+  padding-bottom: 50px;
+}
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
